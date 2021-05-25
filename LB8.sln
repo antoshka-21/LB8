@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB8", "LB8\LB8.csproj", "{A3013B0F-01F7-489E-8B98-189074E22613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB8_", "LB8_\LB8_.csproj", "{70E49C02-E003-4B9E-95EB-F1B7C6314338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3013B0F-01F7-489E-8B98-189074E22613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3013B0F-01F7-489E-8B98-189074E22613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3013B0F-01F7-489E-8B98-189074E22613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3013B0F-01F7-489E-8B98-189074E22613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E49C02-E003-4B9E-95EB-F1B7C6314338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E49C02-E003-4B9E-95EB-F1B7C6314338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E49C02-E003-4B9E-95EB-F1B7C6314338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E49C02-E003-4B9E-95EB-F1B7C6314338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9E987C-C7C4-4C0A-B209-7BDEF3F58DA6}
+	EndGlobalSection
+EndGlobal

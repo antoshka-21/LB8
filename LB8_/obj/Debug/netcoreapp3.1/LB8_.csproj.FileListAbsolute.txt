@@ -1,0 +1,16 @@
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.exe
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.deps.json
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.runtimeconfig.json
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.runtimeconfig.dev.json
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.dll
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8_.pdb
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8.dll
+C:\Users\ablic\source\repos\LB8\LB8_\bin\Debug\netcoreapp3.1\LB8.pdb
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.csprojAssemblyReference.cache
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.AssemblyInfoInputs.cache
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.AssemblyInfo.cs
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.csproj.CoreCompileInputs.cache
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.csproj.CopyComplete
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.dll
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.pdb
+C:\Users\ablic\source\repos\LB8\LB8_\obj\Debug\netcoreapp3.1\LB8_.genruntimeconfig.cache

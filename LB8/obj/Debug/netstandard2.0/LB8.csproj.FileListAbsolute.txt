@@ -1,0 +1,9 @@
+C:\Users\ablic\source\repos\LB8\LB8\bin\Debug\netstandard2.0\LB8.deps.json
+C:\Users\ablic\source\repos\LB8\LB8\bin\Debug\netstandard2.0\LB8.dll
+C:\Users\ablic\source\repos\LB8\LB8\bin\Debug\netstandard2.0\LB8.pdb
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.csprojAssemblyReference.cache
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.AssemblyInfoInputs.cache
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.AssemblyInfo.cs
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.csproj.CoreCompileInputs.cache
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.dll
+C:\Users\ablic\source\repos\LB8\LB8\obj\Debug\netstandard2.0\LB8.pdb

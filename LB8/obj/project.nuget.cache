@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjvWyLeZTgFSQRJyC+HKPgSmJQZxvTy1iGAgb+J2SBRaTfBqiTSr9BNWiEN6VxrVoxcN20qwbRS0IJ/KxR2Naw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ablic\\source\\repos\\LB8\\LB8\\LB8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ablic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ablic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
